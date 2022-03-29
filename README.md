@@ -1,4 +1,4 @@
-# yummyfoods
+# Yummy Foods
 A food ordering website made using **HTML**, **Tailwindcss** and **JS**
 
 `HomePage in PC` </br>
